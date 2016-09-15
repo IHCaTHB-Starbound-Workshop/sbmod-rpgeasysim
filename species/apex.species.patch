@@ -1,0 +1,14 @@
+[
+{"op":"add","path":"/genders/0/shirt/-","value":"apextier6achest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"apextier6achest"},
+{"op":"add","path":"/genders/0/pants/-","value":"apextier6apants"},
+{"op":"add","path":"/genders/1/pants/-","value":"apextier6apants"},
+{"op":"add","path":"/genders/0/shirt/-","value":"apextier6mchest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"apextier6mchest"},
+{"op":"add","path":"/genders/0/pants/-","value":"apextier6mpants"},
+{"op":"add","path":"/genders/1/pants/-","value":"apextier6mpants"},
+{"op":"add","path":"/genders/0/shirt/-","value":"apextier6schest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"apextier6schest"},
+{"op":"add","path":"/genders/0/pants/-","value":"apextier6spants"},
+{"op":"add","path":"/genders/1/pants/-","value":"apextier6spants"}
+]

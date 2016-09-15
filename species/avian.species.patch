@@ -1,1 +1,14 @@
-
+[
+{"op":"add","path":"/genders/0/shirt/-","value":"aviantier6achest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"aviantier6achest"},
+{"op":"add","path":"/genders/0/pants/-","value":"aviantier6apants"},
+{"op":"add","path":"/genders/1/pants/-","value":"aviantier6apants"},
+{"op":"add","path":"/genders/0/shirt/-","value":"aviantier6mchest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"aviantier6mchest"},
+{"op":"add","path":"/genders/0/pants/-","value":"aviantier6mpants"},
+{"op":"add","path":"/genders/1/pants/-","value":"aviantier6mpants"},
+{"op":"add","path":"/genders/0/shirt/-","value":"aviantier6schest"},
+{"op":"add","path":"/genders/1/shirt/-","value":"aviantier6schest"},
+{"op":"add","path":"/genders/0/pants/-","value":"aviantier6spants"},
+{"op":"add","path":"/genders/1/pants/-","value":"aviantier6spants"}
+]
